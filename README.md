@@ -63,4 +63,3 @@ This project involves cleaning and preparing a Nashville housing dataset for ana
   <li><b>Delete Unused Columns:</b> Drop unnecessary columns.</li>
 </ul>
 
-<p>This project demonstrates effective SQL data cleaning techniques to prepare the dataset for accurate analysis.</p>
